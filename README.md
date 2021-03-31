@@ -4,7 +4,7 @@
 * Consiste em um potifólio de um fotógrafo genérico. 
 * Deselvolvido em HTML e CSS.
 
-[Acesse diretamente este site clicando aqui.](https://www.youtube.com/channel/UCFtySEk9ArhCuuD22FNWa0g)
+[Acesse diretamente este site clicando aqui.](https://diasmilena.github.io/Portifolio_De_Um_Fotografo/)
 
 
 
