@@ -34,7 +34,8 @@ nav > a{
     font-weight: 800;
     font-size: 32px;
     font-family: Yellowtail, serif;
-
+    margin-left: 30px;
+    
 }
 
 nav ul{
@@ -44,7 +45,6 @@ nav ul{
     padding: 0;
 }
 nav ul li{
-    text-align: center;
     width: 100%;
     margin-right: 20px;
 }
@@ -188,6 +188,9 @@ footer p{
     /* nav */
     nav{
         justify-content: space-evenly;
+    }
+    nav > a{
+        margin-left: 0;
     }
 
     header p{
